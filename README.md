@@ -125,7 +125,7 @@
         <li>
             <a class="action_btn view_more" href="https://www.youtube.com/playlist?list=PLMUnOQXaQW1DId641NvCXRbNXLuWU2tr2&jct=MLNxcnDrJGyHBF9R8KsqjUXKDKStmg" style="color: white;">
                 <img src="Playlist.png" alt="Playlist" width="18" height="16">
-                <span class="full_label">Lost In The Depths Playlist Ost Game</span>
+                <span class="full_label">Lost In The Depths Ost</span>
             </a>
         </li>
     </ul>
@@ -136,7 +136,7 @@
             <p>yolotzy0307</p>
             <p>Lanza78</p>
         </div>
-        <h1>Lost In The Depths</h1>
+        <h1>Lost in the Depths</h1>
         <div class="description">
             <div class="backroom-container">
                 <img src="Backroom.png">
@@ -144,8 +144,8 @@
             </div>
             <h2>Protagonist</h2>
             <div class="protagonist-container">
-                <p>The Protagonist (or TH3 VICT4M) is the main character of the game, his real name is "Luis Roberto" and he is 16 years old, he lived normally, until one day, he made No Clip to The Backrooms when he entered an abandoned place that It looked like a parking lot, arriving at The MEG Base, and after that, The Backrooms.</p>
-                <img src="prota.png">
+                <p>The Protagonist (or TH3 VICT1M) is the main character of the game, his real name is "Luis Roberto" and he is 16 years old, he lived normally, until one day, he made No Clip to The Backrooms when he entered an abandoned place that It looked like a parking lot, arriving at The MEG Base, and after that, The Backrooms.</p>
+                <img src="Prota.png">
             </div>
         </div>
 
@@ -275,7 +275,7 @@
         <p>They are Original Levels based on some festivity</p>
         <p>The Spookrooms</p>
         <p>Tomb Level</p>
-        <p>Christmas</p>
+        <p>The Gift Plane</p>
     </div>
     <div class="bosses">
         <h2>Bosses</h2>
